@@ -516,6 +516,7 @@ Tests use an **isolated in-memory SQLite database** — no interference with pro
 | Name                       | GitHub                                                           |
 | -------------------------- | ---------------------------------------------------------------- |
 | **Houssem Eddine Chaouch** | [@HoussemEddineChaouch](https://github.com/HoussemEddineChaouch) |
+| **Omar Abdallah**          | [@OmarAbdallah25](https://github.com/OmarAbdallah25)             |
 
 ---
 
